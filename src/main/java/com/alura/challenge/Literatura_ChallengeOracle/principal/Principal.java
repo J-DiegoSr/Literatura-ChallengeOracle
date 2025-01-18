@@ -105,7 +105,7 @@ public class Principal {
                 case 8 -> buscarAutorPorNombre();
                 case 9 -> listarAutoresPorAtributo();
                 case 0 -> System.out.println("Gracias por su visita.Cerrando Sistema...");
-                default -> System.out.println("Opción incorrecta. Intente nuevamente.");
+                default -> System.out.println("Opción incorrecta. Intente nuevamente =).");
             }
         }
     }
